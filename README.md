@@ -62,7 +62,7 @@ Enable RPC Mode in options
 
 #### Step 2-3:
 
-Same to Diretly download Step 1-2
+Same to Directly download Step 1-2
 
 #### Step 4:
 
